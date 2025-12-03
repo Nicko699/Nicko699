@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***About me***
 
 <div style="max-width: 55%;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380px"   style="margin-left:20px; margin-top:80px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px"   style="margin-left:20px; margin-top:80px;"/>
   
 I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.  
 I love to learn and build something new, productive, innovative and creative.
