@@ -14,8 +14,9 @@
 <div style="max-width: 55%;">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px" style="margin-left:20px; margin-top:80px;"/>
 
-I am an apprentice in **Software Analysis and Development – SENA**.  
-I mainly focus on **backend development with Java and Spring Boot**, and I have knowledge across the full web application development lifecycle: analysis, design, database modeling, development, and testing.
+
+I am a Software Developer with a strong focus on backend development using Java and Spring Boot. I have knowledge across the full web application 
+development lifecycle: analysis, design, database modeling, development, and testing.
 
 * **Interested in backend web development and building secure and scalable REST APIs**
 - 🌱 Currently strengthening my knowledge in:
