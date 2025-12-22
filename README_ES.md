@@ -14,14 +14,14 @@
 <div style="max-width: 55%;">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px" style="margin-left:20px; margin-top:80px;"/>
 
-Soy aprendiz de **Análisis y Desarrollo de Software – SENA**. Me enfoco principalmente en el **desarrollo backend con Java y Spring Boot**, y cuento con conocimientos en todo el ciclo de desarrollo de aplicaciones web: análisis, diseño, modelado de bases de datos, desarrollo y pruebas.
+Soy desarrollador de software con un enfoque sólido en el desarrollo backend con Java y Spring Boot. Cuento con conocimientos en todo el ciclo de desarrollo de aplicaciones web: análisis, diseño, modelado de bases de datos, desarrollo y pruebas.
 
 * **Me interesa el desarrollo web backend y la creación de APIs REST seguras y escalables**
 - 🌱 Actualmente estoy fortaleciendo mis conocimientos en:
   - Programación Funcional
   - JUnit
 - 💻 Enfocado en seguir aprendiendo y mejorando mis habilidades en desarrollo de software.
-- ✔  Pregúntame lo que quieras — con gusto ayudo si está a mi alcance 😉  
+- ✔  Pregúntame lo que quieras, con gusto ayudo si está a mi alcance 😉  
 - ✈️ Fuera de la tecnología disfruto del fútbol, la música y viajar.
 - 📫 Visita mi portafolio: [Próximamente](https://portfolio)
 
