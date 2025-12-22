@@ -9,22 +9,22 @@
 
 <p align="center">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***Sobre mí***
+## 🚀 ***Sobre mí***
 
 <div style="max-width: 55%;">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px" style="margin-left:20px; margin-top:80px;"/>
 
-Soy estudiante de Ingeniería de Sistemas / Ciencias de la Computación.  
-Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+Soy aprendiz de **Análisis y Desarrollo de Software – SENA**. Me enfoco principalmente en el **desarrollo backend con Java y Spring Boot**, y cuento con conocimientos en todo el ciclo de desarrollo de aplicaciones web: análisis, diseño, modelado de bases de datos, desarrollo y pruebas.
 
-* **Me interesa el diseño web, el desarrollo Android y el marketing digital**
-- 🌱 Actualmente estoy aprendiendo:
-  - Java
-  - React.js
-- 👯 Me interesa colaborar en proyectos open source.
-- ✔ Pregúntame lo que quieras — con gusto ayudo 😉  
-- Fuera de la tecnología: 📖 lectura, 🖌️ dibujo, 🎵 música, 🌴 explorar la naturaleza.
-- 📫 Contáctame en: **bhargavi.kurukunda@students.iiit.ac.in**
+* **Me interesa el desarrollo web backend y la creación de APIs REST seguras y escalables**
+- 🌱 Actualmente estoy fortaleciendo mis conocimientos en:
+  - Programación Funcional
+  - JUnit
+- 💻 Enfocado en seguir aprendiendo y mejorando mis habilidades en desarrollo de software.
+- ✔  Pregúntame lo que quieras — con gusto ayudo si está a mi alcance 😉  
+- ✈️ Fuera de la tecnología disfruto del fútbol, la música y viajar.
+- 📫 Visita mi portafolio: [Próximamente](https://portfolio)
+
 
 </div>
 
@@ -55,5 +55,5 @@ Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativ
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </span>
