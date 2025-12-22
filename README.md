@@ -2,32 +2,35 @@
   🇪🇸 <a href="README_ES.md">Español</a> | 🇺🇸 <a href="README.md">English</a>
 </p>
 
-<h1 align="center"><b>Hi , I'm Nicolás Muñoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">
+  <b>Hello, I'm Nicolás Muñoz</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***About me***
+## 🚀 ***About Me***
 
 <div style="max-width: 55%;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px"   style="margin-left:20px; margin-top:80px;"/>
-  
-I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.  
-I love to learn and build something new, productive, innovative and creative.
-  
-* **I am interested in Web designing, Android development, and digital marketing** 
-- 🌱 I’m currently learning:
-  - Java
-  - React.js
-- 👯 I’m looking forward to collaborating on open-source projects.
-- ✔ Feel free to ask me anything — happy to help if the ball is in my court! 😉  
-- Outside tech: 📖 reading novels, 🖌️ sketching, 🎵 music, 🌴 exploring nature.
-- 📫 Reach me at: **bhargavi.kurukunda@students.iiit.ac.in**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px" style="margin-left:20px; margin-top:80px;"/>
+
+I am an apprentice in **Software Analysis and Development – SENA**.  
+I mainly focus on **backend development with Java and Spring Boot**, and I have knowledge across the full web application development lifecycle: analysis, design, database modeling, development, and testing.
+
+* **Interested in backend web development and building secure and scalable REST APIs**
+- 🌱 Currently strengthening my knowledge in:
+  - Functional Programming
+  - JUnit
+- 💻 Focused on continuous learning and improving my software development skills.
+- ✔ Feel free to ask me anything, I’ll be happy to help if it’s within my reach 😉  
+- ✈️ Outside of tech, I enjoy football, music, and traveling.
+- 📫 Visit my portfolio: [Coming soon](https://portfolio)
 
 </div>
 
-## 🛠️ My Skills Include
+## 🛠️ My Skills
 
-###  Frontend
+### Frontend
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,7 +43,7 @@ I love to learn and build something new, productive, innovative and creative.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
- <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=database&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=database&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
   <img src="https://img.shields.io/badge/OAuth2-3D8BFD?style=for-the-badge&logo=oauth&logoColor=white">
@@ -49,10 +52,8 @@ I love to learn and build something new, productive, innovative and creative.
 
 ### Tools
 <span>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </span>
-
-  
