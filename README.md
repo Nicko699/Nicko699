@@ -25,7 +25,7 @@ development lifecycle: analysis, design, database modeling, development, and tes
 - 💻 Focused on continuous learning and improving my software development skills.
 - ✔ Feel free to ask me anything, I’ll be happy to help if it’s within my reach 😉  
 - ✈️ Outside of tech, I enjoy football, music, and traveling.
-- 📫 Visit my portfolio: [Coming soon](https://portfolio)
+- 📫 Visit my portfolio: https://nickodevportafolio.netlify.app/
 
 </div>
 
