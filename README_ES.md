@@ -19,7 +19,7 @@ Soy desarrollador de software con un enfoque sólido en el desarrollo backend co
 * **Me interesa el desarrollo web backend y la creación de APIs REST seguras y escalables**
 - 🌱 Actualmente estoy fortaleciendo mis conocimientos en:
   - Programación Funcional
-  - JUnit
+  - Testing
 - 💻 Enfocado en seguir aprendiendo y mejorando mis habilidades en desarrollo de software.
 - ✔  Pregúntame lo que quieras, con gusto ayudo si está a mi alcance 😉  
 - ✈️ Fuera de la tecnología disfruto del fútbol, la música y viajar.
