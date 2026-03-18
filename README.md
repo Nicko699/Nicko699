@@ -20,8 +20,8 @@ development lifecycle: analysis, design, database modeling, development, and tes
 
 * **Interested in backend web development and building secure and scalable REST APIs**
 - 🌱 Currently strengthening my knowledge in:
-  - Functional Programming
   - Testing
+  - Keycloak
 - 💻 Focused on continuous learning and improving my software development skills.
 - ✔ Feel free to ask me anything, I’ll be happy to help if it’s within my reach 😉  
 - ✈️ Outside of tech, I enjoy football, music, and traveling.
