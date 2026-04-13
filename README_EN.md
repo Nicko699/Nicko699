@@ -1,34 +1,35 @@
 <p align="right">
-  🇪🇸 <a href="README_ES.md">Español</a> | 🇺🇸 <a href="README.md">English</a>
+  🇪🇸 <a href="README_ES.md">Español</a> | 🇺🇸 <a href="README_EN.md">English</a>
 </p>
 
 <h1 align="center">
-  <b>Hola, soy Nicolás Muñoz</b>
+  <b>Hello, I'm Nicolás Muñoz</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
 
-## 🚀 ***Sobre mí***
+## 🚀 ***About Me***
 
 <div style="max-width: 55%;">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px" style="margin-left:20px; margin-top:80px;"/>
 
-Soy desarrollador de software con un enfoque sólido en el desarrollo backend con Java y Spring Boot. Cuento con conocimientos en todo el ciclo de desarrollo de aplicaciones web: análisis, diseño, modelado de bases de datos, desarrollo y pruebas.
 
-* **Me interesa el desarrollo web backend y la creación de APIs REST seguras y escalables**
-- 🌱 Actualmente estoy fortaleciendo mis conocimientos en:
+I am a Software Developer with a strong focus on backend development using Java and Spring Boot. I have knowledge across the full web application 
+development lifecycle: analysis, design, database modeling, development, and testing.
+
+* **Interested in backend web development and building secure and scalable REST APIs**
+- 🌱 Currently strengthening my knowledge in:
   - Testing
   - Keycloak
-- 💻 Enfocado en seguir aprendiendo y mejorando mis habilidades en desarrollo de software.
-- ✔  Pregúntame lo que quieras, con gusto ayudo si está a mi alcance 😉  
-- ✈️ Fuera de la tecnología disfruto del fútbol, la música y viajar.
-- 📫 Visita mi portafolio: https://nickodevportafolio.netlify.app/
-
+- 💻 Focused on continuous learning and improving my software development skills.
+- ✔ Feel free to ask me anything, I’ll be happy to help if it’s within my reach 😉  
+- ✈️ Outside of tech, I enjoy football, music, and traveling.
+- 📫 Visit my portfolio: https://nickodevportafolio.netlify.app/
 
 </div>
 
-## 🛠️ Mis habilidades 
+## 🛠️ My Skills
 
 ### Frontend
 <span>
@@ -50,10 +51,11 @@ Soy desarrollador de software con un enfoque sólido en el desarrollo backend co
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge">
 </span>
 
-### Herramientas
+### Tools
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </span>
