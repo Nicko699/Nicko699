@@ -21,8 +21,8 @@ Soy desarrollador de software con un enfoque sólido en el desarrollo backend co
   - Testing
   - Keycloak
 - 💻 Enfocado en seguir aprendiendo y mejorando mis habilidades en desarrollo de software.
-- ✔  Pregúntame lo que quieras, con gusto ayudo si está a mi alcance 😉  
-- ✈️ Fuera de la tecnología disfruto del fútbol, la música y viajar.
+- ✔  Pregúntame lo que quieras, con gusto te ayudo si está a mi alcance 😉  
+- ✈️ Fuera del desarrollo, disfruto el fútbol, la música y viajar.
 - 📫 Visita mi portafolio: https://nickodevportafolio.netlify.app/
 
 
