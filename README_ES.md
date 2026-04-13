@@ -1,5 +1,5 @@
 <p align="right">
-  🇪🇸 <a href="README.md">Español</a> | 🇺🇸 <a href="README_ES.md">English</a>
+  🇪🇸 <a href="README_ES.md">Español</a> | 🇺🇸 <a href="README_ES.md">English</a>
 </p>
 
 <h1 align="center">
@@ -55,5 +55,6 @@ Soy desarrollador de software con un enfoque sólido en el desarrollo backend co
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </span>
