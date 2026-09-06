@@ -19,7 +19,7 @@ Soy desarrollador de software con enfoque sólido en el desarrollo backend con J
 * **Me interesa el desarrollo web backend y la creación de APIs REST seguras y escalables**
 - 🌱 Actualmente estoy fortaleciendo mis conocimientos en:
   - Testing
-  - Keycloak
+  - IA
 - 💻 Enfocado en seguir aprendiendo y mejorando mis habilidades en desarrollo de software.
 - ✔  Pregúntame lo que quieras, con gusto te ayudo si está a mi alcance 😉  
 - ✈️ Fuera del desarrollo: disfruto el fútbol, la música y viajar.
